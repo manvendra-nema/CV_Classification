@@ -39,12 +39,19 @@ Welcome to the Image Classification Project! In this project, we explore various
 
 Stay tuned for updates and insights as we progress through the project!
 
+Data Visualization 
+
 ![image](https://github.com/manvendra-nema/CV_Classification/assets/53614640/7f6818cb-530f-4e16-982f-6326cc62e786)
 
+2-D t-SNE
 
 ![image](https://github.com/manvendra-nema/CV_Classification/assets/53614640/3fe55285-a802-4d8d-8024-873bbc9df725)
 
+3-D t-SNE
+
 ![image](https://github.com/manvendra-nema/CV_Classification/assets/53614640/d5ab2a4b-ff72-48c2-ac4f-938fa558a9ff)
+
+Misclassification
 
 ![image](https://github.com/manvendra-nema/CV_Classification/assets/53614640/a3ac9ef9-ef49-447c-8dc5-b329a52ff585)
 
